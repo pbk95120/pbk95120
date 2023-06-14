@@ -1,4 +1,4 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pbk95120)](https://solved.ac/pbk95120/)
 <!--
 **pbk95120/pbk95120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

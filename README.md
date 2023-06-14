@@ -1,7 +1,7 @@
 # Park Byeoung Kyu
 ```🌊``` _Growing Frontend Developer_
 
-##### Main Skills & Stacks 
+##### Skills & Stacks 
 
 <img src="https://img.shields.io/badge/React-7382B5?&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-7382B5?&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-7382B5?&logo=Javascript&logoColor=white"/>
 

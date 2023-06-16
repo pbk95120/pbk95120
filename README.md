@@ -11,6 +11,6 @@
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pbk95120)](https://solved.ac/pbk95120/)
 <br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbk95120&layout=compact&custom_title=Most&nbsp;Used&nbsp;Languages&bg_color=30,b3bfff,ccdaff&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbk95120&layout=compact&card_width=350&custom_title=Most&nbsp;Used&nbsp;Languages&bg_color=30,b3bfff,ccdaff&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 

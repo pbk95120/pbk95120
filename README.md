@@ -7,7 +7,7 @@
 
 ##### Education & Experience
 ```🏫``` Sungkyunkwan University / Sports Science & Software (2018.03 ~ )<br/>
-```💻``` Programmers Wep Full-Stack Dev Course 1st (2023.11 ~ 2024.05 )<br/>
+```💻``` Programmers Wep Full-Stack Dev Course 1st (2023.11 ~ 2024.05)<br/>
 
 ---
 [![pbk95120's github stats](https://github-readme-stats.vercel.app/api?username=pbk95120&count_private=true&custom_title=pbk95120&nbsp;&bg_color=30,b3bfff,ccdaff&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
